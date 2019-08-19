@@ -1,6 +1,6 @@
 {
     "license": "Artistic-2.0",
-    "source-url": "git://github.com/cbk/API-USNavalObservatory",
+    "source-url": "https://github.com/cbk/API-USNavalObservatory.git",
     "depends": [
         "URI",
         "Cro::HTTP::Client",
